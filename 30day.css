@@ -1,0 +1,42 @@
+.regtangle{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 50%;
+}
+.button{
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    width: 200px;
+
+
+}
+.p{
+    margin: 2px;
+    height: 20px;
+}
+.button_two{
+    padding: 10px 20px;
+    background-color: rgb(96, 96, 161);
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    width: 200px;
+
+}
+.button_three{
+    padding: 10px 20px;
+    background-color: rgb(137, 137, 164);
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    width: 200px; 
+}
